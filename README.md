@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm badstagram. I live in South East England and am working on a discord bot called [Vortez](https://gitlab.com/badstagram/vortex). 
+I'm badstagram. I live in South East England and am working on a discord bot called [Vortex](https://gitlab.com/badstagram/vortex) 
 
 ### Links
 * [Twitter](https://twitter.com/badstagram2)
